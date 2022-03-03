@@ -92,3 +92,7 @@ button {
   justify-content: center;
   align-items: center;
 }
+
+.card-deck {
+  padding: 25px;
+}
